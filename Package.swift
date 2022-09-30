@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "OpenTok Video SDK",
+    name: "OpenTok",
     products: [
         .library(
             name: "OpenTok",
