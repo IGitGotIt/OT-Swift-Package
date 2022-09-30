@@ -10,7 +10,7 @@ let package = Package(
     ],
     dependencies: [
     .package(url: "https://github.com/IGitGotIt/OT-Swift-Package.git", .upToNextMajor(from: "23.1.0"))
-]
+
     ],
     targets: [
         .binaryTarget(name: "OpenTok",
